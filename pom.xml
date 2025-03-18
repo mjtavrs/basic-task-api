@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>dev.marcostavares</groupId>
 	<artifactId>basic-task-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>basic-task-api</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Basic RESTful task API created as a challenge for the dio's Spring bootcamp</description>
 	<url/>
 	<licenses>
 		<license/>
